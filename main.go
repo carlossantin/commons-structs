@@ -13,4 +13,5 @@ func main() {
 
 	e.Start(":8080")
 	println("Server started on port 8080")
+	println("You can access the server at http://localhost:8080")
 }
